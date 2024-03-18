@@ -1,3 +1,4 @@
 # test-git
-Testing git GitHub
-This is just a test, stting up my git on GITHUB.
+Testing git GitHub. 
+<br>
+This is just a test, setting up my git on GITHUB.
